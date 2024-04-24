@@ -1,1 +1,1 @@
-print("Hello irfan this is form my github accont")
+print("Hello irfan this is form my python code and say hi to irfan")
